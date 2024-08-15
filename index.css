@@ -1,0 +1,25 @@
+*{background-color: rgb(242, 14, 14);}
+.a{display: inline-flex; color: aqua; border: 3px solid black;}
+
+.t1 {
+    border: medium solid #0d52f1;
+    width: 50%;
+    }
+    td, th {
+    border: thin solid #10e15c;
+    width: 50%;
+    }
+    h2{text-align: center;}
+    .p1{text-align: center; background-color: #10e15c;}
+    .a {
+        border: 3px solid black;
+        margin-top: 100px;
+        margin-bottom: 300px;
+        margin-right: 300px;
+        margin-left: 275px;
+        background-color: lightblue;
+      }
+      .a{text-align: center;}
+      body {
+        font-family: 'Roboto';font-size: 20px;
+    }
